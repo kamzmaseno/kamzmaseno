@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamzmaseno
+- 👋 Hi, I’m Martin Mutugi
 - 👀 I’m interested in data engineering and computer vision application to agriculture
 - 🌱 I’m currently learning Deep learning, Applied Machine learning and on cloud data processing.
 - 💞️ I’m looking to collaborate on CV projects, NLP, applied ML and data engineering specifically big data
